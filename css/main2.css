@@ -1,0 +1,843 @@
+.wrap1{
+    width: 1250px;
+}
+.wrap{
+    width: 100%;
+    display: block;
+}
+.navbar{
+    width: 99%;
+    height: 55px;
+}
+.navbar-item{
+    width: 70%;
+    height: 95%;
+    margin-top: 0;
+    margin-left: 0;
+    vertical-align: middle;
+    float: left;
+}
+.navbar-item-2{
+    width: 100%;
+    height: 95%;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin-left: 73.5%;
+    vertical-align: middle;
+}
+.img{
+    width: 115px;
+    height: 25px;
+    float: left;
+    margin-left: 15px;
+    margin-top: 6px ;
+    box-sizing: border-box;
+}
+li{
+    list-style: none;
+    float: left;
+    margin-top: 13px;
+    margin-left: 15px;
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+.all-microsoft{
+    width: 120px;
+    height: 98%;
+    border: 1px solid transparent;
+    list-style: none;
+    float: left;
+    margin-top:0;
+    margin-left: 10px;
+    padding-top: 13px;
+    box-sizing: border-box;
+    position: relative;
+}
+.down{
+    float: left;
+}
+.img2{
+    width: 15px;
+    height: 15px;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+.navbar-item-2-2{
+    width: 40px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 1px;
+}
+.search{
+    width: 35px;
+    height: 35px;
+    margin-top: 0;
+    margin-left: 8px;
+}
+.navbar-item-2-3{
+    width: 40px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 1px;
+    vertical-align: middle;
+}
+.buy{
+    width: 25px;
+    height: 25px;
+    margin-top: 5px;
+    margin-left: 8px;
+}
+.navbar-item-2-4{
+    width: 40px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 1px;
+    vertical-align: middle;
+}
+.account{
+    width: 25px;
+    height: 25px;
+    margin-top: 5px;
+    margin-left: 8px;
+}
+.navbar-2{
+    width: 100%;
+    height: 55px;
+    border: 1px solid darkred;
+    background-color: darkred;
+    position: relative;
+}
+.p1{
+    height: 90%;
+    border: 5px solid transparent;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    top: 2px;
+    left: 300px;
+    padding-top: 10px;
+    box-sizing: border-box;
+}
+.p1:hover {
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+.p1:before{
+    content: '';
+    width: 20px;
+    height: 20px;
+    background-image:url("../rasmlar/red.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100%;
+    position: absolute;
+    margin-left: 670px;
+    transform: rotate(270deg);
+}
+.p1:active{
+    height: 90%;
+    border: 5px dotted white;
+
+}
+.font1{
+    width: 100%;
+    height: 650px;
+    top: 0;
+    left: 0;
+}
+.blackfriday{
+    width: 100px;
+    border: 1px solid transparent;
+    background-color: white;
+    margin-left: 0;
+    text-align: center;
+    border-radius: 2px;
+}
+.blackfriday a{
+    text-decoration: none;
+    color: darkred;
+}
+.pblack {
+    color: darkred;
+}
+.background-image{
+    position: relative;
+    width: 100%;
+}
+.ustida{
+    width: 350px;
+    height: 450px;
+    position: absolute;
+    top: 200px;
+    left: 750px;
+    text-align: left;
+}
+.a{
+    /*line-height: 10px;*/
+    color: black;
+    font-family: italic;
+}
+.b{
+    margin-top:15px;
+    font-size: 20px;
+}
+.d{
+    line-height: 10px;
+}
+.xbox{
+    margin-left: 0;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    border: 5px solid black;
+    background-color: black;
+    color: white;
+    vertical-align: middle;
+    padding-top: 10px;
+    box-sizing: border-box;
+    border-radius: 2px;
+}
+.xbox:active{
+    content: '';
+    border: 5px dotted white;
+    border-radius: 5px;
+}
+.xbox a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.navbar-3{
+    width: 95%;
+    margin: 0 auto;
+    text-align: center;
+}
+.navbar-3-1{
+    width:20%;
+    display: inline-block;
+    margin-left: 3.5%;
+}
+.navbar-3-text{
+    width:95%;
+    margin: 0 auto;
+}
+.navbar-3-text a{
+    color: black;
+    text-decoration-color: black;
+    text-decoration: underline;
+}
+.f{
+    display: inline-block;
+    margin-left: 85px;
+    border: 5px solid transparent;
+}
+.f:active{
+    border: 5px dotted;
+}
+.g{
+    display: inline-block;
+    margin-left: 60px;
+    border: 5px solid transparent;
+}
+.g:active{
+    border: 5px dotted;
+}
+.h{
+    display: inline-block;
+    margin-left: 30px;
+    border: 5px solid transparent;
+}
+.h:active{
+    border: 5px dotted;
+}
+.i{
+    display: inline-block;
+    margin-left: 115px;
+    border: 5px solid transparent;
+}
+.i:active{
+    border: 5px dotted;
+}
+.navbar-4{
+    text-align: center;
+    margin: 10px auto;
+}
+.j{
+    text-decoration: underline;
+    text-decoration-color: black;
+    color: black;
+    margin-left: 530px;
+    border: 5px solid transparent;
+}
+.j:active{
+    border: 5px dotted;
+}
+.navbar-5{
+    width: 90%;
+    height: 500px;
+    margin: 0 auto;
+
+}
+.navbar-5-1{
+    width: 100%;
+    margin-left: 0;
+}
+.navbar-5-2{
+    width: 100%;
+}
+.webp{
+    width: 24%;
+    margin-left: 0.7%;
+}
+.www{
+    float: left;
+    margin-left: 3px;
+}
+.wwa{
+    float: left;
+    margin-left: 50px;
+}
+.wwb{
+    float: left;
+    margin-left: 30px;
+}
+.wwc{
+    float: left;
+    margin-left: 50px;
+}
+.button1{
+    color: darkred;
+    font-size: 20px;
+    position: relative;
+    border: 3px solid transparent;
+}
+.button1:active{
+    border: 3px dotted darkred;
+}
+.button1:after{
+    content: '';
+    width: 20px;
+    height: 20px;
+    float: left;
+    background-image: url("../rasmlar/red.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    background-size: 100%;
+    background-position: center center;
+    top: 5px;
+    left: 190px;
+    transform: rotate(270deg);
+}
+.navbar-6{
+    width: 90%;
+    height: 500px;
+    margin: 50px auto;
+    position: relative;
+    background-image: url("../rasmlar/font-image2.avif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.navbar-6-text{
+    width: 350px;
+    height: 450px;
+    position: absolute;
+    top: 1600px;
+    left: 750px;
+    text-align: left;
+}
+.adb{
+    line-height:10px;
+}
+.text-icon{
+    position: relative;
+    text-decoration: none;
+    color: black;
+}
+.text-icon:after{
+    content: '';
+    width: 15px;
+    height: 15px;
+    float: left;
+    background-image: url("../rasmlar/down.png");
+    transform: rotate(270deg);
+    background-size: 100%;
+    background-position: center center;
+    position: absolute;
+    top: 3px;
+    left: 140px;
+}
+.text-icon:hover{
+    text-decoration: underline;
+    text-decoration-color: black;
+    margin-right: 10px;
+}
+.add{
+    margin-left: 60px;
+}
+.navbar-7{
+    width: 90%;
+    margin: 0 auto;
+}
+.navbar-7-2{
+    height: 300px;
+}
+.ddd{
+    width: 24%;
+    margin-left: 0.7%;
+}
+.wwd{
+    float: left;
+    margin-left: 8px;
+
+}
+.wwe{
+    float: left;
+    margin-left: 50px;
+}
+.wwf{
+    float: left;
+    margin-left: 30px;
+}
+.wwg{
+    float: left;
+    margin-left: 50px;
+}
+.wwd-1{
+    text-decoration: none;
+    color: darkred;
+    position: relative;
+    border: 3px solid transparent;
+}
+.wwd-1:active{
+    border: 3px dotted darkred;
+}
+.wwd-2{
+    text-decoration: none;
+    color: darkred;
+    position: relative;
+    border: 3px solid transparent;
+}
+.wwd-2:active{
+    border: 3px dotted darkred;
+}
+.wwd-1:before{
+    content: '';
+    width: 20px;
+    height: 20px;
+    float: left;
+    background-image: url("../rasmlar/red.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    background-size: 100%;
+    background-position: center center;
+    top: 0;
+    left: 220px;
+    transform: rotate(270deg);
+}
+.wwd-2:before{
+    content: '';
+    width: 20px;
+    height: 20px;
+    float: left;
+    background-image: url("../rasmlar/red.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    background-size: 100%;
+    background-position: center center;
+    top: 5px;
+    left: 120px;
+    transform: rotate(270deg);
+}
+.wwe-1{
+    text-decoration: none;
+    color: darkred;
+    position: relative;
+    border: 3px solid transparent;
+}
+.wwe-1:active{
+    border: 3px dotted darkred;
+}
+.wwe-1:before{
+    content: '';
+    width: 20px;
+    height: 20px;
+    float: left;
+    background-image: url("../rasmlar/red.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    background-size: 100%;
+    background-position: center center;
+    top: 0;
+    left: 120px;
+    transform: rotate(270deg);
+}
+.wwf-1{
+    text-decoration: none;
+    color: darkred;
+    position: relative;
+    border: 3px solid transparent;
+}
+.wwf-1:active{
+    border: 3px dotted darkred;
+}
+.wwf-1:before{
+    content: '';
+    width: 20px;
+    height: 20px;
+    float: left;
+    background-image: url("../rasmlar/red.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    background-size: 100%;
+    background-position: center center;
+    top: 0;
+    left: 100px;
+    transform: rotate(270deg);
+}
+.wwg-1{
+    text-decoration: none;
+    color: darkred;
+    position: relative;
+    border: 3px solid transparent;
+}
+.wwg-1:active{
+    border: 3px dotted darkred;
+}
+.wwg-2{
+    text-decoration: none;
+    color: darkred;
+    position: relative;
+    border: 3px solid transparent;
+}
+.wwg-2:active{
+    border: 3px dotted darkred;
+}
+.wwg-2:before{
+    content: '';
+    width: 20px;
+    height: 20px;
+    float: left;
+    background-image: url("../rasmlar/red.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    background-size: 100%;
+    background-position: center center;
+    top: 0;
+    left: 150px;
+    transform: rotate(270deg);
+}
+.navbar-8{
+    width: 90%;
+    height: 600px;
+    margin: 0 auto;
+    background-image: url("../rasmlar/hot.avif");
+    background-size: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.navbar-8-text{
+    width: 450px;
+    height: 260px;
+    border: 1px solid white;
+    position: absolute;
+    top: 2850px;
+    left: 700px;
+    background-color: white;
+}
+.p{
+    font-size: 30px;
+    line-height: 5px;
+    margin-left: 15px;
+}
+.pp{
+    margin-left: 15px;
+    line-height: 8px;
+}
+.button2{
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    border: 3px solid black;
+    background-color: black;
+    border-radius: 2px;
+    margin-left: 15px;
+    padding-top: 10px;
+    box-sizing: border-box;
+}
+.button2:active{
+    border: 3px dotted white;
+}
+.button2 a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+.hover{
+    margin-left: 10px;
+    border: 5px solid transparent;
+}
+.hover:hover{
+text-decoration: underline;
+    text-decoration-color: black;
+}
+.down:hover{
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+.hover:active{
+    content: '';
+    border: 1px dotted;
+}
+.all-microsoft:active{
+    border: 1px dotted;
+}
+.follow-{
+    width: 600px;
+    margin-left: 60px;
+}
+.microsoft{
+    float: left;
+    font-size: 20px;
+}
+.faceicon{
+    width: 35px;
+    height: 35px;
+    float: left;
+    background-image: url("../rasmlar/Facebook 2x.avif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center center;
+    margin-top: 15px;
+    margin-left: 10px;
+    box-sizing: border-box;
+    border: 5px solid transparent;
+}
+.faceicon:active{
+    border: 5px dotted dodgerblue;
+}
+.twitter{
+
+    width: 35px;
+    height: 35px;
+    float: left;
+    background-image: url("../rasmlar/Twitter 2x.webp");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin-top: 15px;
+    margin-left: 10px;
+    box-sizing: border-box;
+    border: 5px solid transparent;
+}
+.twitter:active{
+    border: 5px dotted dodgerblue;
+}
+.in{
+    width: 35px;
+    height: 35px;
+    float: left;
+    background-image: url("../rasmlar/Linkedin 2x.avif");
+    background-repeat: no-repeat;
+    background-size: 100%;background-position: center center;
+    margin-top: 15px;
+    margin-left: 10px;
+    box-sizing: border-box;
+    border: 5px solid transparent;
+}
+.in:active{
+    border: 5px dotted dodgerblue;
+}
+.fixed{
+    position: fixed;
+    width: 150px;
+    height: 50px;
+    border: 1px solid whitesmoke;
+    background-color: whitesmoke;
+    top: 530px;
+    left: 1080px;
+    border-radius: 3px;
+    text-align: center;
+    vertical-align: middle;
+}
+.back-to-top{
+    text-decoration: none;
+    position: relative;
+    padding-top: 5px;
+    box-sizing: border-box;
+    color: black;
+    float: right;
+    margin-top: 10px;
+    margin-right: 20px;
+    vertical-align: middle;
+}
+.back-to-top:before{
+    content: '';
+    width: 20px;
+    height: 20px;
+    background-image: url("../rasmlar/up.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    transform: rotate(180deg);
+    position: absolute;
+    top: 0;
+    left: -40px;
+}
+.ong{
+    width: 50px;
+    height: 50px;
+    background-image: url("../rasmlar/iconn.png");
+    background-size: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    transform: rotate(90deg);
+    margin-left: 550px;
+    transition: all 1s ease-in-out;
+}
+.ong:hover{
+    margin-left: 530px;
+}
+.orta{
+    width: 15px;
+    height: 15px;
+    background-image: url("../rasmlar/dot.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    box-sizing: border-box;
+    margin-left: 610px;
+    margin-top: -35px;
+}
+.orta2{
+    width: 15px;
+    height: 15px;
+    background-image: url("../rasmlar/dot.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    box-sizing: border-box;
+    margin-left: 630px;
+    margin-top: -15px;
+}
+.chap{
+    width: 50px;
+    height: 50px;
+    background-image: url("../rasmlar/iconn.png");
+    background-size: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    transform: rotate(270deg);
+    margin-left: 655px;
+    margin-top: -32px;
+    transition: all 1s ease-in-out;
+}
+.chap:hover{
+    margin-left: 680px;
+}
+.all-microsoft:active{
+    display: block;
+
+}
+.all-microsoft-hover{
+    position: absolute;
+    top: 70px;
+    left: 60px;
+    width: 90%;
+    height: 90%;
+    border: 1px solid black;
+    background-color: white;
+    display: none;
+}
+.item{
+    width: 60%;
+    border: 1px solid black;
+}
+
+@media (min-width: 240px) and (max-width: 570px){
+    .wrap{
+        width: 100%;
+        background-color: green;
+        margin: 0 auto;
+    }
+}
+@media (min-width: 570px) and (max-width: 780px){
+    .wrap {
+        width: 100%;
+        background-color: blueviolet;
+        margin: 0 auto;
+    }
+}
+@media (min-width: 780px) and (max-width: 990px){
+    .wrap{
+        width: 100%;
+        margin: 0 auto;
+    }
+}
+@media (min-width: 990px) and (max-width: 1200px) {
+    .wrap{
+        width: 100%;
+        margin: 0 auto;
+    }
+}
+@media (min-width: 1200px) {
+    .wrap{
+        width: 100%;
+        margin: 0 auto;
+    }
+}
+.under{
+    margin-left: 0;
+    width: 99.5%;
+    background-color: whitesmoke;
+    border: 1px solid whitesmoke;
+    height: 500px;
+}
+.hreff{
+    font-size: 12px;
+    font-family: Arial;
+    text-decoration: none;
+    color: black;
+    line-height: 38px;
+}
+.hreff:hover{
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+.under-1{
+    width: 100px;
+    margin-left: 50px;
+}
+.under-2{
+    width: 120px;
+    margin-left: 200px;
+    margin-top: -405px;
+}
+.under-3{
+    width: 120px;
+    margin-left: 400px;
+    margin-top: -440px;
+}
+.under-4{
+    width: 120px;
+    margin-left: 600px;
+    margin-top: -520px;
+}
+.under-5{
+    width: 120px;
+    margin-left: 810px;
+    margin-top: -400px;
+}
+.under-6{
+    width: 120px;
+    margin-left: 1000px;
+    margin-top: -405px;
+}
+.sub-menu-item:nth-child(3):hover .sub-menu-item-hover{
+    display: block;
+}
+.sub-menu-item-hover{
+    display: none;
+}
